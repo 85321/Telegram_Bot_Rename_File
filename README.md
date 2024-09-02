@@ -1,5 +1,5 @@
 Telegram Bot Rename Files - Переименовывает платежки в формате PDF.
-Вервии:
+Версии:
   pip install aiogram == 2.21
   pip install pypdf
   pip install os
